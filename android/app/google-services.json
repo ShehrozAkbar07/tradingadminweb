@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "175726792836",
+    "project_id": "tradeappadmin-3d4df",
+    "storage_bucket": "tradeappadmin-3d4df.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:175726792836:android:dcbb6a832b3c7da77132d1",
+        "android_client_info": {
+          "package_name": "com.example.trading_web_app_admin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGF0r9-oeoKnSJjM91KaqQR84IptQxLMw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
